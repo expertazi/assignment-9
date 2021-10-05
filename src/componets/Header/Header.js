@@ -10,7 +10,7 @@ const Header = () => {
     <div>
       <Navbar className="fixed-top" bg="light" expand="lg">
         <Container>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand to="/#home">
             <img
               alt=""
               src={logo}
