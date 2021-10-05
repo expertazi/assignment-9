@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Secrects Art Of Living Yoga",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/04/12.jpg",
+      "instructor": "Ceci",
+      "price": 45,
+      "level": "Intermediate",
+      "enrolled": 220,
+      "rating": 4
+    },
+ 
+    {
+      "id": 2,
+      "name": "Learn Today CorePower Yoga",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/04/11.jpg",
+      "instructor": "Azi",
+      "price": 29,
+      "level": "Begainner",
+      "enrolled": 440,
+      "rating": 5
+    },
+ 
+    {
+      "id": 3,
+      "name": "The Space Yoga Studio ",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/05/7.jpg",
+      "instructor": "Ceci",
+      "price": 35,
+      "level": "Intermediate",
+      "enrolled": 120,
+      "rating": 3
+    },
+ 
+    {
+      "id": 4,
+      "name": "Rising Lotus Yoga Secrects",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/05/6.jpg",
+      "instructor": "Jhon",
+      "price": 65,
+      "level": "Advance",
+      "enrolled": 620,
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Yoga Rock Studios Exclusive Course ",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/04/10.jpg",
+      "instructor": "Fahim Vai",
+      "price": 99,
+      "level": "All Level",
+      "enrolled": 999,
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "name": "Yoga At The Raven Luxuriam veni ",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/05/8.jpg",
+      "instructor": "Cecila Pereria",
+      "price": 29,
+      "level": "All Level",
+      "enrolled": 499,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "name": "Silver Lake Yoga Exclusive Course ",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/05/5.jpg",
+      "instructor": "Cecila Pereria",
+      "price": 199,
+      "level": "All Level",
+      "enrolled": 199,
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "name": "Yoga Secrects Peace Yoga Gallery ",
+      "img": "http://yog.gentechtree.com/wp-content/uploads/2020/05/2.jpg",
+      "instructor": "Cecila Pereria",
+      "price": 19,
+      "level": "Advance",
+      "enrolled": 444,
+      "rating": 4
+    }
+
+  ]

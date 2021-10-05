@@ -1,0 +1,19 @@
+.cart-title {
+  font-size: 30px !important;
+  line-height: 40px;
+  font-weight: 600;
+}
+.card-title {
+  margin-bottom: 0 !important;
+}
+.this-is-for-p {
+  margin-bottom: 0 !important;
+  color: #6c757d !important;
+  padding: 2px 0;
+}
+
+.for-course-rating {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}

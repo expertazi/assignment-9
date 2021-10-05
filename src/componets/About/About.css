@@ -1,0 +1,18 @@
+.about-us-hero-content p {
+  line-height: 30px;
+  color: #666464;
+  font-size: 17px;
+}
+.about-us-hero-content ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 35px;
+}
+.about-us-hero-content ul li {
+  color: #666464;
+  margin-top: 5px;
+}
+.about-us-hero-content ul li span {
+  margin-right: 5px;
+  color: #f46150;
+}

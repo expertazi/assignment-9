@@ -1,0 +1,68 @@
+.global-section {
+  background-color: #f7f0ea;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* This is for global section Images  */
+.global-section-img {
+  width: 500px;
+}
+.global-section-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.global-section-content h3 {
+  color: #f46251;
+  margin-bottom: 15px;
+}
+.global-section-content h2 {
+  line-height: 64px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  font-size: 56px;
+}
+.global-section-content p {
+  padding: 12px 0;
+}
+.global-section-btn {
+  background-color: rgb(244, 97, 80);
+  height: auto;
+  width: auto;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  font-size: 18px;
+  padding: 8px 18px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.global-section-btn:hover {
+  color: white;
+  background-color: #000;
+}
+
+/* This is Second Section Css  */
+.second-section {
+  padding-top: 55px;
+  padding-bottom: 75px;
+}
+
+.second-section p {
+  line-height: 30px;
+}
+/* Third Section Css  */
+.section-title {
+  color: #f46251;
+}
+.section-heading-title {
+  font-size: 56px;
+  font-weight: 600;
+}
+
+/* This is Trainer Section  */
+.cart-titlte {
+  font-weight: 600;
+}
+.card:hover {
+  box-shadow: 0 0px 20px 1px rgba(0, 0, 0, 0.226);
+}
