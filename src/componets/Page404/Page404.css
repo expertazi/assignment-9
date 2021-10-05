@@ -1,0 +1,15 @@
+.not-found-page {
+  margin-bottom: 30px;
+}
+.not-found-page h1 {
+  font-size: 420px;
+  color: #f46150;
+  font-weight: bold;
+}
+.not-found-page h2 {
+  margin-bottom: 10px;
+}
+.not-found-page h5 {
+  margin-bottom: 30px;
+  margin-top: 15px;
+}

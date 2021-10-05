@@ -24,12 +24,15 @@ const Courses = (props) => {
               </p>
             </span>
           </div>
-          <h2 className="mt-2 mb-3">
-            <span>Price: ${price}</span>
-          </h2>
-          <Link to="/services" className="global-section-btn">
-            Add To Cart
-          </Link>
+
+          <div className="d-flex justify-content-between align-items-center">
+            <h2 className="mt-2 mb-3">
+              <span>${price}</span>
+            </h2>
+            <Link to="/services" className="global-section-btn">
+              Add To Cart
+            </Link>
+          </div>
         </Card.Body>
       </Card>
     </Col>

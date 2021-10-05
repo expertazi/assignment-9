@@ -1,0 +1,27 @@
+.custom-icon {
+  background-color: #f46150;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  font-size: 50px;
+  margin-left: 120px;
+}
+.custom-icon span {
+  font-size: 37px;
+  color: white;
+}
+.contact-cart-content {
+  padding-top: 35px;
+  padding-bottom: 25px;
+}
+.contact-cart-content h2 {
+  font-weight: 600;
+}
+.global-section {
+  background-color: #f7f0ea;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.section-heading-title {
+  margin-bottom: 75px;
+}
