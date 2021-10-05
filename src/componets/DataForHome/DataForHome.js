@@ -5,6 +5,7 @@ import "./DataForHome.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
+import Rating from "react-rating";
 
 const DataForHome = (props) => {
   console.log(props);
@@ -21,10 +22,12 @@ const DataForHome = (props) => {
           <div className="for-course-rating">
             <span>Level: {level}</span>
             <span>
-              {" "}
-              <p>
-                Rating: {rating} {element}
-              </p>
+              <Rating
+                initialRating={rating}
+                emptySymbol="far fa-star"
+                fullSymbol="fas fa-star"
+                readonly
+              ></Rating>
             </span>
           </div>
           <div className="d-flex justify-content-between align-items-center">
